@@ -1,0 +1,7 @@
+1.) Install python
+2.) Add path to environmentn variables
+3.) cmd command: pip install jupyter
+4.) cmd command: jupyter notebook
+
+(if above command didnt work,then)
+cmd command: python -m notebook
